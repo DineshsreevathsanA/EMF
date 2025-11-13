@@ -7,7 +7,7 @@ The Signal Fortress: How Electric Boundary
  connections and satellite broadcasts to radar transmissions all while
  maintaining remarkable signal integrity. Its operation relies entirely on the
  principles of Electric Boundary Conditions (EBCs).
-<img width="314" height="146" alt="image" src="https://github.com/user-attachments/assets/ca1d8616-2743-48de-b066-6e86023e0b9d" />
+                         <img width="314" height="146" alt="image" src="https://github.com/user-attachments/assets/ca1d8616-2743-48de-b066-6e86023e0b9d" />
 
 
  The coaxial cable performs two crucial roles:
@@ -17,7 +17,7 @@ The Signal Fortress: How Electric Boundary
  These two objectives are achieved by enforcing specific EBCs that
  separate the cable’s
  internal and external electromagnetic worlds.
-<img width="542" height="298" alt="image" src="https://github.com/user-attachments/assets/d9fab337-a6b4-4a49-905e-f295726dda4f" />
+                          <img width="542" height="298" alt="image" src="https://github.com/user-attachments/assets/d9fab337-a6b4-4a49-905e-f295726dda4f" />
 
 2. The Inner Realm: Containing the Signal
  Inside the cable, the electric and magnetic fields travel only through the insulating
@@ -37,13 +37,13 @@ The Signal Fortress: How Electric Boundary
  confined
  entirely within the dielectric. No field escapes, and the EM wave travels with maximum
  efficiency.
-<img width="850" height="696" alt="image" src="https://github.com/user-attachments/assets/c7775e53-461d-424a-8d4a-71f19c839263" />
+                            <img width="850" height="696" alt="image" src="https://github.com/user-attachments/assets/c7775e53-461d-424a-8d4a-71f19c839263" />
 
 3. The Outer Realm: Defending Against Interference Now consider an external noise
  source — such as a Wi-Fi signal or microwave radiation — attempting to enter the
  cable. The Conductor–Air boundary at the outer surface of the shield acts as the
  defense line.
-<img width="240" height="210" alt="image" src="https://github.com/user-attachments/assets/1700edf4-665f-491a-9e36-d56be14d6b3d" />
+                            <img width="240" height="210" alt="image" src="https://github.com/user-attachments/assets/1700edf4-665f-491a-9e36-d56be14d6b3d" />
 
  Boundary 3: Air to Outer Surface of Shield 
 • The tangential component of the external electric field becomes zero upon hitting the
