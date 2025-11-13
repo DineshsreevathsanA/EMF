@@ -1,5 +1,4 @@
-# EMF
-The Signal Fortress: How Electric Boundary
+## The Signal Fortress: How Electric Boundary
  Conditions Shape Coaxial Cables
  1. Introduction: The Hidden Masterpiece of Communication
  The coaxial cable is one of the most brilliant yet underrated inventions in
