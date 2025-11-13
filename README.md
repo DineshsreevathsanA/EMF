@@ -4,12 +4,14 @@ Coonditions Shape Coaxial Cables
  The coaxial cable is one of the most brilliant yet underrated inventions in
  modern electronics. It silently carries high-frequency data from internet
  connections and satellite broadcasts to radar transmissions all while
- maintaining remarkable signal integrity. Its operation relies entirely on the
+ maintaining remarkable signal integrity. 
+ Its operation relies entirely on the
  principles of Electric Boundary Conditions (EBCs).
+ 
  <img width="314" height="146" alt="image" src="https://github.com/user-attachments/assets/ca1d8616-2743-48de-b066-6e86023e0b9d" />
 
 
- The coaxial cable performs two crucial roles:
+ ## The coaxial cable performs two crucial roles:
  1. Guiding electromagnetic signals efficiently from source to destination.
  2. Shielding those signals from external electromagnetic interference
  (EMI).
@@ -40,13 +42,14 @@ Coonditions Shape Coaxial Cables
 <img width="850" height="696" alt="image" src="https://github.com/user-attachments/assets/c7775e53-461d-424a-8d4a-71f19c839263" />
 
 ## 3. The Outer Realm: Defending Against Interference Now consider an external noise
+ 
  source — such as a Wi-Fi signal or microwave radiation — attempting to enter the
  cable. The Conductor–Air boundary at the outer surface of the shield acts as the
  defense line.
 
 <img width="240" height="210" alt="image" src="https://github.com/user-attachments/assets/1700edf4-665f-491a-9e36-d56be14d6b3d" />
 
- Boundary 3: Air to Outer Surface of Shield 
+## Boundary 3: Air to Outer Surface of Shield 
 • The tangential component of the external electric field becomes zero upon hitting the
  shield’s conductive surface. 
 • The normal component is neutralized by induced surface charges that instantly
@@ -59,9 +62,9 @@ Coonditions Shape Coaxial Cables
 
 ## 4. The Dielectric Core:Defining Impedance and Speed 
 The dielectric material between the conductors not only insulates but also determines the
- cable’s characteristic impedance (Z = √(L/C)).
- This impedance depends on the permittivity (ε) of the dielectric, which itself is governed by
- microscopic EBCs between molecular boundaries. 
+cable’s characteristic impedance (Z = √(L/C)).
+This impedance depends on the permittivity (ε) of the dielectric, which itself is governed by
+microscopic EBCs between molecular boundaries. 
 Boundary 4: Microscopic Boundaries in the Dielectric • The tangential component of the E
 field (E) is continuous across boundaries. • The normal component of the D-field (D) is
  continuous as well.
