@@ -1,12 +1,12 @@
 ## The Signal Fortress: How Electric Boundary
- Conditions Shape Coaxial Cables
+Coonditions Shape Coaxial Cables
  1. Introduction: The Hidden Masterpiece of Communication
  The coaxial cable is one of the most brilliant yet underrated inventions in
  modern electronics. It silently carries high-frequency data from internet
  connections and satellite broadcasts to radar transmissions all while
  maintaining remarkable signal integrity. Its operation relies entirely on the
  principles of Electric Boundary Conditions (EBCs).
-                         <img width="314" height="146" alt="image" src="https://github.com/user-attachments/assets/ca1d8616-2743-48de-b066-6e86023e0b9d" />
+ <img width="314" height="146" alt="image" src="https://github.com/user-attachments/assets/ca1d8616-2743-48de-b066-6e86023e0b9d" />
 
 
  The coaxial cable performs two crucial roles:
@@ -16,7 +16,7 @@
  These two objectives are achieved by enforcing specific EBCs that
  separate the cable’s
  internal and external electromagnetic worlds.
-  <img width="542" height="298" alt="image" src="https://github.com/user-attachments/assets/d9fab337-a6b4-4a49-905e-f295726dda4f" />
+<img width="542" height="298" alt="image" src="https://github.com/user-attachments/assets/d9fab337-a6b4-4a49-905e-f295726dda4f" />
 
 2. The Inner Realm: Containing the Signal
  Inside the cable, the electric and magnetic fields travel only through the insulating
